@@ -23,6 +23,25 @@ Findings generated using GRAIL are meant to inform research and design, rather t
 
 GRAIL is not intended for direct deployment as a production system or for use in real-world, high-stakes decision-making contexts. It is released for research purposes.
 
+### Citation
+If you use GRAIL in your own research, please cite our paper: 
+```
+@ARTICLE{Alsobay2026-me,
+  title     = "Bringing everyone to the table: An experimental study of
+               {LLM}-facilitated group decision making",
+  author    = "Alsobay, Mohammed and Rothschild, David M and Hofman, Jake M and
+               Goldstein, Daniel G",
+  journal   = "Proc. ACM Hum. Comput. Interact.",
+  publisher = "Association for Computing Machinery (ACM)",
+  volume    =  10,
+  number    =  6,
+  pages     = "1--36",
+  month     =  "31~" # oct,
+  year      =  2026,
+  language  = "en"
+}
+```
+
 ## Getting started
 
 GRAIL was developed using the open-source [Empirica](https://empirica.ly/) framework (v1.12.0).
