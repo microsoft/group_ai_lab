@@ -21,7 +21,7 @@
     "path": "0.12.7",
     "rollup-plugin-polyfill-node": "^0.13.0",
     "unocss": "^0.58.5",
-    "vite": "5.1.4",
+    "vite": "6.4.2",
     "vite-plugin-restart": "0.4.0"
   },
   "name": "react",
